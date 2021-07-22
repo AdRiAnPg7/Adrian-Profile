@@ -1,13 +1,11 @@
 import React from 'react';
-import '../styles/Navbar.css';
-
 // React FontAwesome
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons'
+// Styles
+import '../styles/Navbar.css';
 // Logo
 import logo from '../assets/amm_logo1.png';
-
-
 
 export default function Navbar() {
     return (

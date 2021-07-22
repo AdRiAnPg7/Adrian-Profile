@@ -18,7 +18,7 @@ nav ul li {
 .navbar-nav > li > a {
     margin-right: 0.75rem;
     margin-left: 0.75rem;
-    color: var(--primary-white) !important;
+    color: var(--text-white) !important;
     border-top: 0.1875rem solid var(--transparent);
 }
 
@@ -33,8 +33,7 @@ nav ul li {
 }
 
 .navbar-nav > li > a:hover, 
-.navbar-nav > li > a:focus  
-{
+.navbar-nav > li > a:focus  {
     border-top: 0.1875rem solid;
     color: var(--secondary-main) !important;
 }

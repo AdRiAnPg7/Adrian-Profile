@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,700&display=swap');
 :root {
     --primary-black: #151515;
-    --primary-white: #EBEBEB;
+    --primary-light: #323232;
+    --text-white: #EBEBEB;
+    --text-dark:#D1D1D1;
     --secondary-main: #D0A866;
+    --secondary-light: #F6BF67;
+    --transparent-main: rgb(208, 168, 102, 0.5);
+    --transparent-light: rgb(246, 191, 103, 0.5);
+    --transparent-white: rgb(235, 235, 235, 0.5);
     --transparent: rgb(0,0,0,0);
 }
 
