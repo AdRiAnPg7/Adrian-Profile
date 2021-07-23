@@ -19,6 +19,7 @@
     left: 0;
     right: 0;
     bottom: 0;
+    z-index: 1;
 }
 
 .main-info h1 {
@@ -49,3 +50,13 @@
     color: var(--primary-black) !important;
  }
 
+
+ @media(max-width: 768px){
+    .main-info h1 {
+        font-size: 1.65rem !important;
+    }
+    
+    .typed-text{
+        font-size: 1.5rem !important;
+    }
+ }
